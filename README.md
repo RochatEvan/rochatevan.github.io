@@ -1,4 +1,3 @@
-<iframe width="640" height="480" src="https://sketchfab.com/models/YOUR_MODEL_ID/embed" frameborder="0" allow="autoplay; fullscreen; vr"></iframe>
 <span style="font-size:40px"> Travail de Bachelor </span>
 
 <span style="font-size:35px">**Mécanisme d’entretien d’un pendule de Foucault par lames flexibles**</span>
