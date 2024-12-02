@@ -2,17 +2,6 @@
 
 <span style="font-size:35px">**Mécanisme d’entretien d’un pendule de Foucault par lames flexibles**</span>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>3D Model</title>
-</head>
-<body>
-    <iframe width="640" height="480" src="https://sketchfab.com/3d-models/african-penguin-spheniscus-demersus-low-poly-9e59070815fe451d93398e2ebdb9bb92/embed" frameborder="0" allow="autoplay; fullscreen; vr"></iframe>
-</body>
-</html>
-
 - Etudiant: [Evan Rochat](https://www.linkedin.com/in/evan-rochat/)
 
 - Enseignant responsable: [Yves Chevallier](https://www.linkedin.com/in/yveschevallier/)
