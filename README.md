@@ -1,7 +1,18 @@
+<iframe width="640" height="480" src="https://sketchfab.com/models/YOUR_MODEL_ID/embed" frameborder="0" allow="autoplay; fullscreen; vr"></iframe>
 <span style="font-size:40px"> Travail de Bachelor </span>
 
 <span style="font-size:35px">**Mécanisme d’entretien d’un pendule de Foucault par lames flexibles**</span>
-![Image](illustration_PdF_final_02-2.pdf)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>3D Model</title>
+</head>
+<body>
+    <iframe width="640" height="480" src="https://sketchfab.com/3d-models/african-penguin-spheniscus-demersus-low-poly-9e59070815fe451d93398e2ebdb9bb92/embed" frameborder="0" allow="autoplay; fullscreen; vr"></iframe>
+</body>
+</html>
 
 - Etudiant: [Evan Rochat](https://www.linkedin.com/in/evan-rochat/)
 
