@@ -1,6 +1,7 @@
 <span style="font-size:40px"> Travail de Bachelor </span>
 
 <span style="font-size:35px">**Mécanisme d’entretien d’un pendule de Foucault par lames flexibles**</span>
+![Image](illustration_PdF_final_02-2.pdf)
 
 - Etudiant: [Evan Rochat](https://www.linkedin.com/in/evan-rochat/)
 
