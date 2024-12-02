@@ -1,6 +1,6 @@
-# Travail de Bachelor  
-  
- <span style="font-size:30px">**Mécanisme d’entretien d’un pendule de Foucault par lames flexibles**</span>
+<span style="font-size:40px"> Travail de Bachelor  
+
+**Mécanisme d’entretien d’un pendule de Foucault par lames flexibles**</span>
 
 
 ## Résumé
