@@ -1,4 +1,7 @@
-# Travail de Bachelor  - Mécanisme d’entretien d’un pendule de Foucault par lames flexibles - 2024
+# Travail de Bachelor  
+  
+ <span style="font-size:50px">**Mécanisme d’entretien d’un pendule de Foucault par lames flexibles**</span>
+
 
 ## Résumé
 Ce travail de Bachelor s'est concentré sur la modification du mécanisme de maintien du Pendule de Foucault à la HEIG-VD. Le mécanisme existant n'était pas optimal et a nécessité un remplacement par un système plus fiable et robuste. L'aspect principal de ce projet a été l'implémentation de guidages flexibles dans le mécanisme de maintien du pendule. Ces guidages flexibles ont permis de réduire les frottements et les perturbations du système. Il s'agit d'éléments qui se déforment sous l'effet d'une force et qui reprennent leur position initiale une fois cette force disparue.
