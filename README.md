@@ -2,6 +2,8 @@
 
 <span style="font-size:35px">**Mécanisme d’entretien d’un pendule de Foucault par lames flexibles**</span>
 
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://rochatevan.github.io/illustration_PdF_final_02-2.pdf" width="500" height="375">
+
 - Etudiant: [Evan Rochat](https://www.linkedin.com/in/evan-rochat/)
 
 - Enseignant responsable: [Yves Chevallier](https://www.linkedin.com/in/yveschevallier/)
