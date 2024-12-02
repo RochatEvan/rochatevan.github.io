@@ -2,7 +2,7 @@
 
 <span style="font-size:35px">**Mécanisme d’entretien d’un pendule de Foucault par lames flexibles**</span>
 
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://rochatevan.github.io/illustration_PdF_final_02-2.pdf" width="90%" height="550">
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://rochatevan.github.io/illustration_PdF_final_02-2.pdf" width="80%" height="560">
 
 
 - Etudiant: [Evan Rochat](https://www.linkedin.com/in/evan-rochat/)
