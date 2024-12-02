@@ -28,13 +28,11 @@ Ce travail de Bachelor s'est concentré sur la modification du mécanisme de mai
 Parallèlement à l'implémentation des guidages flexibles, le câble de suspension du pendule a été modifié afin de retirer le système à couteaux croisés, responsable de l'anisotropie du système. L'objectif a été de tester la proposition de Georges Derron, qui consistait à utiliser un câble à section variable pour éviter la rupture du fil après quelques heures d'utilisation.
 
 ## Affiche Projet : [Télécharger](TB - Affiche - Rochat Evan.pdf)
-        <embed src="https://rochatevan.github.io/TB - Affiche - Rochat Evan.pdf"  width="90%" height="900px" />
         
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://rochatevan.github.io/TB - Affiche - Rochat Evan.pdf" width="90%" height="900px">
 
 ## Rapport Final : [Télécharger](TB - Rapport - Rochat Evan.pdf)
-        <embed src="https://rochatevan.github.io/TB - Rapport - Rochat Evan.pdf"  width="90%" height="900px" />
 
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://rochatevan.github.io/TB - Rapport - Rochat Evan.pdf" width="90%" height="900px">
+<embed src="https://rochatevan.github.io/TB - Rapport - Rochat Evan.pdf"  width="90%" height="900px" />
 
 ## Travaux de Bachelor de la HEIG-VD : [https://tb.heig-vd.ch/8346](https://tb.heig-vd.ch/8346)
